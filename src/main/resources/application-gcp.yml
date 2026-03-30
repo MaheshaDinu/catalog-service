@@ -1,3 +1,2 @@
-spring:
-    mongodb:
-        uri: mongodb://root:jUICpAscXv-IAn5Mv2R37IwX83dB4k3atm7YOg_y7hh5IBWW@d3b1e940-5584-4b15-85de-83987417093a.asia-south1.firestore.goog:443/cloud-native-e-library-databse?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
+
+    
